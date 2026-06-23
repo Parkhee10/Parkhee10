@@ -76,6 +76,23 @@ A career management platform that helps students track applications, opportuniti
 🏆 NVIDIA Deep Learning & AI Learning Paths
 
 
+## 🌱 Currently Learning
+
+* Distributed Systems Design
+* Event-Driven Architecture
+* Cloud Infrastructure (AWS)
+* System Design Fundamentals
+* AI Agent Architectures
+
+## 🎯 2026 Goals
+
+* Ship one backend project end-to-end: a Node.js/Express or Spring Boot API with JWT auth, PostgreSQL, Redis caching, background jobs, and proper logging/monitoring.
+* Deploy that project on AWS using Docker, CI/CD, and a real domain so it can be shown live in interviews.
+* Build a second project focused on system design, such as an event-driven or concurrent processing system, and document the architecture clearly in the README.
+* Contribute to at least 3 open-source repositories by fixing bugs, improving documentation, or adding small features that get merged.
+* Prepare seriously for backend internships by solving DSA consistently, revising SQL, REST APIs, OS, and networking, and applying to roles with a focused resume and portfolio.
+
+
 ## 📊 GitHub Analytics
 
 <p align="center">
