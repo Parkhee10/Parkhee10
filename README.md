@@ -92,6 +92,14 @@ A career management platform that helps students track applications, opportuniti
 * Contribute to at least 3 open-source repositories by fixing bugs, improving documentation, or adding small features that get merged.
 * Prepare seriously for backend internships by solving DSA consistently, revising SQL, REST APIs, OS, and networking, and applying to roles with a focused resume and portfolio.
 
+## 💡 Engineering Interests
+
+* Backend Engineering
+* Distributed Systems
+* Cloud Infrastructure
+* Event-Driven Architectures
+* AI-Powered Applications
+* System Design
 
 ## 📊 GitHub Analytics
 
