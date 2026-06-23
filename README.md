@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=250&section=header&text=Parkhee%20Jha&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Parkhee Jha</h1>
 
 <h3 align="center">
@@ -23,19 +28,19 @@ Computer Science Student | Backend & Cloud Enthusiast | Future Software Engineer
 
 🎯 Preparing for Software Engineering, Backend Engineering, and Cloud Engineering opportunities
 
-## 🔭 Currently Working On
+## 🚀 Featured Projects
 
 ### Enterprise AI Operations Platform
 
-Building an intelligent platform for managing AI workflows, monitoring, automation, and operational visibility.
+Building an AI operations platform focused on workflow orchestration, monitoring, automation, and enterprise-scale deployment.
 
 ### Concurrent Event Processing System
 
-A mini Kafka-inspired distributed event processing system focused on scalability and concurrency.
+A Kafka-inspired event processing system featuring topics, consumers, concurrent processing, and fault-tolerant architecture.
 
-### Career Compass (Advanced Version)
+### Career Compass(advanced version)
 
-A modern platform helping students manage applications, opportunities, and career growth efficiently.
+A career management platform that helps students track applications, opportunities, internships, and career growth.
 
 
 ## 🛠 Tech Stack
@@ -70,5 +75,17 @@ A modern platform helping students manage applications, opportunities, and caree
 🏆 Google Cloud Generative AI
 
 🏆 AWS Educate Machine Learning Foundations
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parkhee10&show_icons=true&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkhee10&layout=compact&theme=default"/>
+</p>
+
+## 🤝 Connect With Me
+
+- LinkedIn: [https://www.linkedin.com/in/parkhee-jha-818b992ab/]
+- Email: parkheejha@gmail.com
 
 🏆 NVIDIA Deep Learning & AI Learning Paths
