@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=250&section=header&text=Parkhee%20Jha&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Parkhee Jha</h1>
-
 <h3 align="center">
 Backend Engineer • Cloud Computing Enthusiast • Building AI-Powered Systems
 </h3>
@@ -75,6 +72,9 @@ A career management platform that helps students track applications, opportuniti
 🏆 Google Cloud Generative AI
 
 🏆 AWS Educate Machine Learning Foundations
+
+🏆 NVIDIA Deep Learning & AI Learning Paths
+
 
 ## 📊 GitHub Analytics
 
