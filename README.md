@@ -101,6 +101,14 @@ A career management platform that helps students track applications, opportuniti
 * AI-Powered Applications
 * System Design
 
+## 📈 Current Focus
+
+* Building Enterprise AI Operations Platform
+* Learning Distributed Systems Design
+* Strengthening Cloud Engineering Skills
+* Practicing Data Structures & Algorithms
+* Preparing for Software Engineering Internships
+
 ## 📊 GitHub Analytics
 
 <p align="center">
