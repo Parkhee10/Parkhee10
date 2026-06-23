@@ -88,4 +88,3 @@ A career management platform that helps students track applications, opportuniti
 - LinkedIn: [https://www.linkedin.com/in/parkhee-jha-818b992ab/]
 - Email: parkheejha@gmail.com
 
-🏆 NVIDIA Deep Learning & AI Learning Paths
