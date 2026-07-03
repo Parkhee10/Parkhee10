@@ -3,71 +3,82 @@
 </p>
 
 <h3 align="center">
-Backend Engineer • Cloud Computing Enthusiast • Building AI-Powered Systems
+Backend • Cloud • AI Systems
 </h3>
 
 <p align="center">
-Computer Science Student | Backend & Cloud Enthusiast | Future Software Engineer
+Computer Science Student building scalable backend systems and AI-powered products.
 </p>
 
+---
 
-## 💫 About Me
+# 💫 About Me
 
-🎓 Computer Science Student
+🎓 Computer Science Student passionate about Backend Engineering and Cloud Computing.
 
-🚀 Currently building production-oriented backend systems
+🚀 Building production-oriented software with a focus on scalability and clean architecture.
 
-☁️ Exploring Cloud Computing and Distributed Systems
+🤖 Interested in AI Systems, Retrieval-Augmented Generation (RAG), and intelligent automation.
 
-🤖 Interested in AI-powered applications and intelligent automation
+🌱 Learning through real-world projects, hackathons, and open-source contributions.
 
-📚 Constantly learning through projects, hackathons, and real-world problem solving
+---
 
-🎯 Preparing for Software Engineering, Backend Engineering, and Cloud Engineering opportunities
+# ⚡ Current Focus
 
-## 🚀 Featured Projects
+- 📍 Intelligent Pincode Risk Engine
+- ☁️ Vertex Microservices Platform
+- 🤖 RAG Knowledge Assistant
+- 🎯 Career Compass *(Work in Progress)*
+- 🌍 Open Source Contributions
 
-### Enterprise AI Operations Platform
+---
 
-Building an AI operations platform focused on workflow orchestration, monitoring, automation, and enterprise-scale deployment.
+# 🚀 Featured Projects
 
-### Concurrent Event Processing System
+## 📍 Intelligent Pincode Risk Engine
+A location intelligence platform that predicts delivery risk using logistics, demographic, and regional insights to improve delivery decision-making.
 
-A Kafka-inspired event processing system featuring topics, consumers, concurrent processing, and fault-tolerant architecture.
+## 🤖 RAG Knowledge Assistant
+A Retrieval-Augmented Generation application with semantic search, document ingestion, and contextual AI responses.
 
-### Career Compass(advanced version)
+## ☁️ Vertex Microservices Platform
+A scalable backend platform built using microservices architecture, REST APIs, containerization, and cloud-native development practices.
 
-A career management platform that helps students track applications, opportunities, internships, and career growth.
+## 🎯 Career Compass *(Work in Progress)*
+A career management platform to organize internships, applications, interview preparation, and personal growth.
 
+---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
-## 📜 Certifications
+# 📜 Certifications
 
 🏆 Google Cloud Generative AI
 
@@ -75,49 +86,64 @@ A career management platform that helps students track applications, opportuniti
 
 🏆 NVIDIA Deep Learning & AI Learning Paths
 
+---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-* Distributed Systems Design
-* Event-Driven Architecture
-* Cloud Infrastructure (AWS)
-* System Design Fundamentals
-* AI Agent Architectures
+- System Design
+- Distributed Systems
+- AWS Cloud
+- RAG & AI Agents
+- Backend Performance Optimization
 
-## 🎯 2026 Goals
+---
 
-* Ship one backend project end-to-end: a Node.js/Express or Spring Boot API with JWT auth, PostgreSQL, Redis caching, background jobs, and proper logging/monitoring.
-* Deploy that project on AWS using Docker, CI/CD, and a real domain so it can be shown live in interviews.
-* Build a second project focused on system design, such as an event-driven or concurrent processing system, and document the architecture clearly in the README.
-* Contribute to at least 3 open-source repositories by fixing bugs, improving documentation, or adding small features that get merged.
-* Prepare seriously for backend internships by solving DSA consistently, revising SQL, REST APIs, OS, and networking, and applying to roles with a focused resume and portfolio.
+# 🎯 2026 Goals
 
-## 💡 Engineering Interests
+- 🚀 Build production-ready backend applications.
+- ☁️ Master AWS and cloud deployment.
+- 🤝 Contribute consistently to open source.
+- 🧠 Strengthen DSA and System Design.
+- 💼 Secure a Backend / SDE Internship.
 
-* Backend Engineering
-* Distributed Systems
-* Cloud Infrastructure
-* Event-Driven Architectures
-* AI-Powered Applications
-* System Design
+---
 
-## 📈 Current Focus
+# 💡 Engineering Interests
 
-* Building Enterprise AI Operations Platform
-* Learning Distributed Systems Design
-* Strengthening Cloud Engineering Skills
-* Practicing Data Structures & Algorithms
-* Preparing for Software Engineering Internships
+- Backend Engineering
+- Cloud Computing
+- Distributed Systems
+- AI Systems
+- System Design
+- Developer Tools
 
-## 📊 GitHub Analytics
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parkhee10&show_icons=true&theme=default"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkhee10&layout=compact&theme=default"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Parkhee10&show_icons=true&theme=default"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkhee10&layout=compact&theme=default"/>
 </p>
 
-## 🤝 Connect With Me
+---
 
-- LinkedIn: [https://www.linkedin.com/in/parkhee-jha-818b992ab/]
-- Email: parkheejha@gmail.com
+# 🤝 Connect With Me
 
+<p align="left">
+
+<a href="https://www.linkedin.com/in/parkhee-jha-818b992ab/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:parkheejha@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+✨ Always building, always learning.
+</p>
