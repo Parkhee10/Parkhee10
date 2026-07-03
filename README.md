@@ -117,15 +117,6 @@ A career management platform to organize internships, applications, interview pr
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Parkhee10&show_icons=true&theme=default"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkhee10&layout=compact&theme=default"/>
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <p align="left">
@@ -139,12 +130,6 @@ A career management platform to organize internships, applications, interview pr
 </a>
 
 </p>
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Parkhee10/Parkhee10/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
----
 
 <p align="center">
 ✨ Always building, always learning.
