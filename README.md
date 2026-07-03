@@ -139,7 +139,11 @@ A career management platform to organize internships, applications, interview pr
 </a>
 
 </p>
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Parkhee10/Parkhee10/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
 ---
 
 <p align="center">
