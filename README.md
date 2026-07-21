@@ -27,7 +27,7 @@ Computer Science Student building scalable backend systems and AI-powered produc
 - 📍 Intelligent Pincode Risk Engine
 - ☁️ Vertex Microservices Platform
 - 🤖 RAG Knowledge Assistant
-- 🎯 Career Compass *(Work in Progress)*
+- 🎯 Career Compass 
 - 🌍 Open Source Contributions
 
 ---
@@ -43,7 +43,7 @@ A Retrieval-Augmented Generation application with semantic search, document inge
 ## ☁️ Vertex Microservices Platform
 A scalable backend platform built using microservices architecture, REST APIs, containerization, and cloud-native development practices.
 
-## 🎯 Career Compass *(Work in Progress)*
+## 🎯 Career Compass 
 A career management platform to organize internships, applications, interview preparation, and personal growth.
 
 ---
