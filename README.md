@@ -26,7 +26,6 @@ Computer Science Student building scalable backend systems and AI-powered produc
 
 - 📍 Intelligent Pincode Risk Engine
 - ☁️ Vertex Microservices Platform
-- 🤖 RAG Knowledge Assistant
 - 🎯 Career Compass 
 - 🌍 Open Source Contributions
 
@@ -36,9 +35,6 @@ Computer Science Student building scalable backend systems and AI-powered produc
 
 ## 📍 Intelligent Pincode Risk Engine
 A location intelligence platform that predicts delivery risk using logistics, demographic, and regional insights to improve delivery decision-making.
-
-## 🤖 RAG Knowledge Assistant
-A Retrieval-Augmented Generation application with semantic search, document ingestion, and contextual AI responses.
 
 ## ☁️ Vertex Microservices Platform
 A scalable backend platform built using microservices architecture, REST APIs, containerization, and cloud-native development practices.
